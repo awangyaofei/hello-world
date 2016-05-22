@@ -7,4 +7,4 @@ GitHub is new to me, and I'm not a real professional programmer, I do program so
 
 I still know little about the world of computer, especially the Internet, know nothing about it,
 
-but I'm try to know, and I hope it won't take me a very long time.
+but I'm trying to know, and I hope it won't take me a very long time.
